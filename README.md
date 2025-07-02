@@ -185,7 +185,7 @@ Added new token entity: 0x1234567890abcdef1234567890abcdef12345678
 
 ---
 
-### **Review and Approval**
+####**Review and Approval**
 
 Your PR will be reviewed to ensure:
 - The `info.json` file has all required fields and valid data.
@@ -195,5 +195,5 @@ Your PR will be reviewed to ensure:
 
 After approval, your changes will be merged into the repository. Thank you for your contribution! 🎉
 
-If you have any questions or issues, feel free to reach out to the symbiotic team.
+If you have any questions or issues, feel free to reach out to the symbiotic team. Good Luck
 
